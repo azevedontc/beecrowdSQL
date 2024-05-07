@@ -6,3 +6,5 @@ beecrowd SQL exercise answers / Respostas exercícios SQL beecrowd
 
 ## PT-BR
 🐝 Exercícios de SQL da plataforma beecrowd
+
+![Screenshot](Screenshot.png)
