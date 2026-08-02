@@ -38,6 +38,14 @@ Cada arquivo em `answers/` contém **apenas a query** submetida e aceita no judg
 
 <br>
 
+## 🚀 Como usar
+
+1. Encontre o número do exercício que você está travado (aparece na URL do problema no beecrowd).
+2. Procure o arquivo correspondente em `answers/<numero>.sql`.
+3. Compare a lógica com a sua tentativa — evite copiar e colar direto, o aprendizado vem de entender o "porquê".
+
+<br>
+
 ## 🤝 Contribuindo
 
 Encontrou um exercício com solução mais elegante, mais performática, ou quer sugerir um problema ainda não resolvido? Abra uma *issue* ou um *pull request* — toda contribuição é bem-vinda.
@@ -106,11 +114,3 @@ Se este repositório te ajudou a destravar algum exercício, considere deixar um
 | [3483](https://judge.beecrowd.com/pt/problems/view/3483) | [ver solução](answers/3483.sql) |
 | [3492](https://judge.beecrowd.com/pt/problems/view/3492) | [ver solução](answers/3492.sql) |
 | [3505](https://judge.beecrowd.com/pt/problems/view/3505) | [ver solução](answers/3505.sql) |
-
-<br>
-
-## 🚀 Como usar
-
-1. Encontre o número do exercício que você está travado (aparece na URL do problema no beecrowd).
-2. Procure o arquivo correspondente em `answers/<numero>.sql`.
-3. Compare a lógica com a sua tentativa — evite copiar e colar direto, o aprendizado vem de entender o "porquê".
